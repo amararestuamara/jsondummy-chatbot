@@ -5,12 +5,12 @@
                 {
                     "title": "dr. Anita Ratna Damayanti, Sp.OG",
                     "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Anita Ratna Damayanti, Sp.OG",
                                 "klinik": "Obsgyn",
@@ -28,12 +28,12 @@
                 {
                    "title": "dr. Yusuf Antoni, Sp.OG",
                     "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Yusuf Antoni, Sp.OG",
                                 "klinik": "Obsgyn",

@@ -7,7 +7,7 @@
                 {
                     "title": "dr. Thomas Budi Setiawan",
                     "text" : "Klinik Umum",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
@@ -40,12 +40,12 @@
                 {
                     "title": "dr. Agustina Ulfa, Sp.A",
                     "text" : "Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -63,12 +63,12 @@
                 {
                    "title": "dr. Dwihastuti Widyaningsih, Sp.A",
                     "text" : "Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Dwihastuti Widyaningsih, Sp.A",
                                 "klinik": "Anak",
@@ -96,12 +96,12 @@
                 {
                     "title": "dr. Anita Ratna Damayanti, Sp.OG",
                     "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Anita Ratna Damayanti, Sp.OG",
                                 "klinik": "Obsgyn",
@@ -119,12 +119,12 @@
                 {
                    "title": "dr. Yusuf Antoni, Sp.OG",
                     "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg"
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
                     "buttons" : [
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : 5f06d3d520f83730309dded6,
+                            "path" : "5f06d3d520f83730309dded6",
                             "variable" : { 
                                 "nama_dokter": "dr. Yusuf Antoni, Sp.OG",
                                 "klinik": "Obsgyn",

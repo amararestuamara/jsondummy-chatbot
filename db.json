@@ -87,5 +87,83 @@
             "type" : "carousel"
         }
     ]
-}	
+},
+	"jadwaldrThomas":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "Hari Senin",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Senin",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 09.30-10.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Senin",
+                                "jam_praktek": "09.30-10.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "Hari Selasa",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Selasa",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+		     {
+                   "title": "Hari Rabu",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Rabu",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
+}
 }

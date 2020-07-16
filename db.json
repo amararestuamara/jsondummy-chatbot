@@ -165,5 +165,64 @@
             "type" : "carousel"
         }
     ]
+},
+	"jadwaldrAgustina":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "Hari Senin",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "Hari Rabu",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }                        
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
 }
 }

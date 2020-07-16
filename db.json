@@ -1,0 +1,235 @@
+{
+	"poliumum":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "dr. Thomas Budi Setiawan",
+                    "text" : "Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Cek Jadwal",
+                            "type": "path",
+                             "path" : "5f104f5320f8371268f79d9a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "jadwal": "Senin-Kamis: 07.30-13.00, Jumat: 07.30-10.00, Sabtu: 07.30-11.30"
+                            }
+                        } 
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
+},
+	"polianak":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "dr. Agustina Ulfa, Sp.A",
+                    "text" : "Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Cek Jadwal",
+                            "type": "path",
+                            "path" : "5f104f5320f8371268f79d9a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "jadwal": "Senin & Rabu: 07.30-13.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "dr. Dwihastuti Widyaningsih, Sp.A",
+                    "text" : "Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Cek Jadwal",
+                            "type": "path",
+                            "path" : "5f104f5320f8371268f79d9a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Dwihastuti Widyaningsih, Sp.A",
+                                "klinik": "Anak",
+                                "jadwal": "Senin: 14.00-15.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
+},
+	"jadwaldrThomas":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "Hari Senin",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Senin",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 09.30-10.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Senin",
+                                "jam_praktek": "09.30-10.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "Hari Selasa",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Selasa",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+		     {
+                   "title": "Hari Rabu",
+                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Rabu",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Thomas Budi Setiawan",
+                                "klinik": "Umum",
+                                "hari": "Rabu",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
+},
+	"jadwaldrAgustina":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "Hari Senin",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "Hari Rabu",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f105e4320f8371268f79e2f",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        }                        
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
+}
+}

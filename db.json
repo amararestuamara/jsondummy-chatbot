@@ -88,50 +88,6 @@
         }
     ]
 },
-	"jadwalPraktekdrAgustina":
-	{
-    "chats": [
-        {
-             "columns" : [
-                {
-                    "title": "Hari Senin Pukul 07.30-08.00",
-                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "hari": "Senin",
-                                "jam_praktek": "30"
-                            }
-                        }
-                    ],
-                    "type" : "button"
-                },
-                {
-                    "title": "Hari Rabu Pukul 07.30-08.00",
-                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "hari": "Senin",
-                                "jam_praktek": "30"
-                            }
-                        }
-                    ],
-                    "type" : "button"
-                }
-            ],
-            "type" : "carousel"
-        }
-    ]
-},
 	"jadwaldrAgustina":
 	{
     "chats": [

@@ -10,7 +10,7 @@
                         {
                             "label" : "Reservasi Pukul 07.30-08.00",
                             "type": "path",
-                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -21,7 +21,7 @@
                         {
                             "label" : "Reservasi Pukul 08.30-09.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -32,7 +32,7 @@
                         {
                             "label" : "Reservasi Pukul 09.30-10.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -51,7 +51,7 @@
                         {
                             "label" : "Reservasi Pukul 07.30-08.00",
                             "type": "path",
-                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -62,7 +62,7 @@
                         {
                             "label" : "Reservasi Pukul 08.30-09.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -73,7 +73,7 @@
                         {
                             "label" : "Reservasi Pukul 09.30-10.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",

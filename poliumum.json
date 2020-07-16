@@ -10,7 +10,7 @@
                         {
                             "label" : "Cek Jadwal",
                             "type": "path",
-                            "path" : "5f06d3d520f83730309dded6",
+                            "path" : "5f104f5320f8371268f79d9a",
                             "variable" : { 
                                 "nama_dokter": "dr. Thomas Budi Setiawan",
                                 "klinik": "Umum",
@@ -20,7 +20,7 @@
                         {
                             "label" : "Kembali",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a"
+                            "path" : "5f104d9420f8371268f79d88"
                         }
                     ],
                     "type" : "button"

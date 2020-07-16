@@ -88,62 +88,6 @@
         }
     ]
 },
-	"poliobsgyn":
-	{
-    "chats": [
-        {
-            "columns" : [
-                {
-                    "title": "dr. Anita Ratna Damayanti, Sp.OG",
-                    "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Cek Jadwal",
-                            "type": "path",
-                            "path" : "5f06d3d520f83730309dded6",
-                            "variable" : { 
-                                "nama_dokter": "dr. Anita Ratna Damayanti, Sp.OG",
-                                "klinik": "Obsgyn",
-                                "jadwal": "Senin & Rabu: 07.30-13.00"
-                            }
-                        },
-                        {
-                            "label" : "Kembali",
-                            "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a"
-                        }
-                    ],
-                    "type" : "button"
-                },
-                {
-                   "title": "dr. Yusuf Antoni, Sp.OG",
-                    "text" : "Klinik Obsgyn",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKOBSGYN/KLINIK_OBSGYN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Cek Jadwal",
-                            "type": "path",
-                            "path" : "5f06d3d520f83730309dded6",
-                            "variable" : { 
-                                "nama_dokter": "dr. Yusuf Antoni, Sp.OG",
-                                "klinik": "Obsgyn",
-                                "jadwal": "Kamis: 07.30-13.00"
-                            }
-                        },
-                        {
-                            "label" : "Kembali",
-                            "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a"
-                        }
-                    ],
-                    "type" : "button"
-                }
-            ],
-            "type" : "carousel"
-        }
-    ]
-},
 	"jadwalPraktekdrAgustina":
 	{
     "chats": [
@@ -157,7 +101,7 @@
                         {
                             "label" : "Reservasi Pukul 07.30-08.00",
                             "type": "path",
-                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -168,7 +112,7 @@
                         {
                             "label" : "Reservasi Pukul 08.30-09.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -179,7 +123,7 @@
                         {
                             "label" : "Reservasi Pukul 09.30-10.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -198,7 +142,7 @@
                         {
                             "label" : "Reservasi Pukul 07.30-08.00",
                             "type": "path",
-                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -209,7 +153,7 @@
                         {
                             "label" : "Reservasi Pukul 08.30-09.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",
@@ -220,7 +164,7 @@
                         {
                             "label" : "Reservasi Pukul 09.30-10.00",
                             "type": "path",
-                            "path" : "5f0695ef20f8375360e53e5a",
+                            "path" : "5f0fe18c20f83769dd6afdd1",
                             "variable" : { 
                                 "nama_dokter": "dr. Agustina Ulfa, Sp.A",
                                 "klinik": "Anak",

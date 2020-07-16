@@ -143,5 +143,97 @@
             "type" : "carousel"
         }
     ]
+},
+	"jadwalPraktekdrAgustina":
+	{
+    "chats": [
+        {
+            "columns" : [
+                {
+                    "title": "Hari Senin",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f0695ef20f8375360e53e5a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 09.30-10.00",
+                            "type": "path",
+                            "path" : "5f0695ef20f8375360e53e5a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Senin",
+                                "jam_praktek": "09.30-10.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                },
+                {
+                   "title": "Hari Rabu",
+                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
+                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
+                    "buttons" : [
+                        {
+                            "label" : "Reservasi Pukul 07.30-08.00",
+                            "type": "path",
+                            "path" : "5f0f2e4520f8373344ceda4a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "07.30-08.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 08.30-09.00",
+                            "type": "path",
+                            "path" : "5f0695ef20f8375360e53e5a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "08.30-09.00"
+                            }
+                        },
+                        {
+                            "label" : "Reservasi Pukul 09.30-10.00",
+                            "type": "path",
+                            "path" : "5f0695ef20f8375360e53e5a",
+                            "variable" : { 
+                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
+                                "klinik": "Anak",
+                                "hari": "Rabu",
+                                "jam_praktek": "09.30-10.00"
+                            }
+                        }
+                    ],
+                    "type" : "button"
+                }
+            ],
+            "type" : "carousel"
+        }
+    ]
 }
 }

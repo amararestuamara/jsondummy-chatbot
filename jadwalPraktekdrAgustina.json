@@ -3,7 +3,7 @@
         {
             "columns" : [
                 {
-                    "title": "Hari Senin",
+                    "title": "Hari Senin Pukul 07.30-08.00",
                     "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
                     "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
                     "buttons" : [
@@ -12,8 +12,6 @@
                             "type": "path",
                             "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
                                 "hari": "Senin",
                                 "jam_praktek": "07.30-08.00"
                             }

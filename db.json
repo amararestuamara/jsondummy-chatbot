@@ -92,9 +92,9 @@
 	{
     "chats": [
         {
-            "columns" : [
+             "columns" : [
                 {
-                    "title": "Hari Senin",
+                    "title": "Hari Senin Pukul 07.30-08.00",
                     "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
                     "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
                     "buttons" : [
@@ -103,39 +103,15 @@
                             "type": "path",
                             "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
                                 "hari": "Senin",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Senin",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 09.30-10.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Senin",
-                                "jam_praktek": "09.30-10.00"
+                                "jam_praktek": "30"
                             }
                         }
                     ],
                     "type" : "button"
                 },
                 {
-                   "title": "Hari Rabu",
+                    "title": "Hari Rabu Pukul 07.30-08.00",
                     "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
                     "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
                     "buttons" : [
@@ -144,32 +120,8 @@
                             "type": "path",
                             "path" : "5f105e4320f8371268f79e2f",
                             "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Rabu",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Rabu",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 09.30-10.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Rabu",
-                                "jam_praktek": "09.30-10.00"
+                                "hari": "Senin",
+                                "jam_praktek": "30"
                             }
                         }
                     ],

@@ -1,264 +1,321 @@
 {
-	"poliumum":
-	{
-    "chats": [
+  "ios": 
+  {
+  "chats": [
+    {
+      "columns": [
         {
-            "columns" : [
-                {
-                    "title": "dr. Thomas Budi Setiawan",
-                    "text" : "Klinik Umum",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Cek Jadwal",
-                            "type": "path",
-                             "path" : "5f104f5320f8371268f79d9a",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "jadwal": "Senin-Kamis: 07.30-13.00, Jumat: 07.30-10.00, Sabtu: 07.30-11.30"
-                            }
-                        },
-                        {
-                            "label" : "Kembali",
-                            "type": "path",
-                            "path" : "5f104d9420f8371268f79d88"
-                        }
-                    ],
-                    "type" : "button"
-                }
-            ],
-            "type" : "carousel"
+          "title": "Iphone 11",
+          "text": "Rp 17.000.000",
+          "image_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//104/MTA-4195877/apple_iphone_11_256_gb_-nano_simcard_-_esim-_full15.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "5f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Iphone 11",
+                "harga_produk": "17000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Iphone X",
+          "text": "Rp 12.000.000",
+          "image_url": "https://dionlineaja.id/image/cache/catalog/product/apple/X%2064GB-800x800.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Iphone X",
+                "harga_produk": "12500000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Iphone XR",
+          "text": "Rp 10.000.000",
+          "image_url": "https://res.cloudinary.com/spectrumobile/image/fetch/e_trim/w_300,h_300,c_fit,f_auto,q_auto,fl_lossy/https%3A%2F%2Fres.cloudinary.com%2Fspectrumobile%2Fimage%2Fupload%2Fv1536795052%2FSpecturm%2520Mobile%2520Buy%2520Flow%2FApple%2FiPhone%2520XR%2FMRYR2LLA_HERO.png",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Iphone XR",
+                "harga_produk": "10000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
         }
-    ]
+      ],
+      "type": "carousel"
+    }
+  ]
 },
-	"polianak":
-	{
-    "chats": [
+  "android":
+  {
+  "chats": [
+    {
+      "columns": [
         {
-            "columns" : [
-                {
-                    "title": "dr. Agustina Ulfa, Sp.A",
-                    "text" : "Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Cek Jadwal",
-                            "type": "path",
-                            "path" : "5f104f5320f8371268f79d9a",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "jadwal": "Senin & Rabu: 07.30-13.00"
-                            }
-                        },
-                        {
-                            "label" : "Kembali",
-                            "type": "path",
-                            "path" : "5f104d9420f8371268f79d88"
-                        }
-                    ],
-                    "type" : "button"
-                },
-                {
-                   "title": "dr. Dwihastuti Widyaningsih, Sp.A",
-                    "text" : "Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Cek Jadwal",
-                            "type": "path",
-                            "path" : "5f104f5320f8371268f79d9a",
-                            "variable" : { 
-                                "nama_dokter": "dr. Dwihastuti Widyaningsih, Sp.A",
-                                "klinik": "Anak",
-                                "jadwal": "Senin: 14.00-15.00"
-                            }
-                        },
-                        {
-                            "label" : "Kembali",
-                            "type": "path",
-                            "path" : "5f104d9420f8371268f79d88"
-                        }
-                    ],
-                    "type" : "button"
-                }
-            ],
-            "type" : "carousel"
+          "title": "Redmi Note 9 Pro",
+          "text": "Rp 3.400.000",
+          "image_url": "https://gizmologi.id/wp-content/uploads/2020/03/redmi_note_9_pro_3.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Redmi Note 9 Pro",
+                "harga_produk": "3400000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Samsung S20 Ultra",
+          "text": "Rp 18.500.000",
+          "image_url": "https://i.ytimg.com/vi/MjBY_Y9N3Us/maxresdefault.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Samsung S20 Ultra",
+                "harga_produk": "18500000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Samsung Galaxy Z Flip",
+          "text": "Rp 22.000.000",
+          "image_url": "https://images.samsung.com/ae/smartphones/galaxy-z-flip/images/galaxy-z-flip-share-image.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Samsung Galaxy Z Flip",
+                "harga_produk": "22000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f1024ee20f8377b733b89a5"
+            }
+          ],
+          "type": "button"
         }
-    ]
+      ],
+      "type": "carousel"
+    }
+  ]
 },
-	"jadwaldrThomas":
-	{
-    "chats": [
+  "windows":
+  {
+  "chats": [
+    {
+      "columns": [
         {
-            "columns" : [
-                {
-                    "title": "Hari Senin",
-                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Senin",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 09.30-10.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Senin",
-                                "jam_praktek": "09.30-10.00"
-                            }
-                        }
-                    ],
-                    "type" : "button"
-                },
-                {
-                   "title": "Hari Selasa",
-                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Selasa",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 09.30-10.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Selasa",
-                                "jam_praktek": "09.30-10.00"
-                            }
-                        }
-                    ],
-                    "type" : "button"
-                }
-		     {
-                   "title": "Hari Rabu",
-                    "text" : "Jadwal dr. Thomas Budi Setiawan, Klinik Umum",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKUMUM/dr_THOMAS_BUDI_SETIAWAN.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Rabu",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Thomas Budi Setiawan",
-                                "klinik": "Umum",
-                                "hari": "Rabu",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        }
-                        }
-                    ],
-                    "type" : "button"
-                }
-            ],
-            "type" : "carousel"
+          "title": "Acer Nitro 5",
+          "text": "Rp 8.000.000",
+          "image_url": "https://www.amd-id.com/wp-content/uploads/2020/02/Multimedia-ACER-Nitro-5.png",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Acer Nitro 5",
+                "harga_produk": "8000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Asus Vivobook 14",
+          "text": "Rp 5.000.000",
+          "image_url": "https://dlcdnimgs.asus.com/websites/ID/PDCustomizedKVSection/video/4524.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Asus Vivobook 14",
+                "harga_produk": "5000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Asus Zenbook Duo",
+          "text": "Rp 15.000.000",
+          "image_url": "https://internationalinvestorclub.com/wp-content/uploads/2019/12/ASUS-Zenbook-Duo-Pro-Duo.png",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Asus Zenbook Duo",
+                "harga_produk": "15000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
         }
-    ]
+      ],
+      "type": "carousel"
+    }
+  ]
 },
-	"jadwaldrAgustina":
-	{
+  "macOS":
+  {
+  "chats": [
+    {
+      "columns": [
+        {
+          "title": "Macbook Pro 16",
+          "text": "Rp 36.000.000",
+          "image_url": "https://cdn.mos.cms.futurecdn.net/VQGBDwhsBz9xx4w5dXdDb6-480-80.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Macbook Pro 16",
+                "harga_produk": "36000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "Macbook Air 13 inch 2019",
+          "text": "Rp 15.000.000",
+          "image_url": "https://cdn.pocket-lint.com/r/s/970x/assets/images/148821-laptops-review-apple-macbook-air-2019-review-image1-rjq8dgayx5-jpg.webp",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "Macbook Air 13 inch 2019",
+                "harga_produk": "15000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
+        },
+        {
+          "title": "iMac Pro",
+          "text": "Rp 81.000.000",
+          "image_url": "https://cnet3.cbsistatic.com/img/op2QRQQhhINLa7Iu3dpg24Hxons=/1200x675/2017/12/13/86f84dd4-18f8-4bc2-9362-df1df2ab4f78/01-apple-imac-pro.jpg",
+          "buttons": [
+            {
+              "label": "Beli",
+              "type": "path",
+              "path": "f10255920f8377b733b89ab",
+              "variable": {
+                "nama_produk": "iMac Pro",
+                "harga_produk": "81000000"
+              }
+            },
+            {
+              "label": "Kembali",
+              "type": "path",
+              "path": "5f10250320f8377b733b89a8"
+            }
+          ],
+          "type": "button"
+        }
+      ],
+      "type": "carousel"
+    }
+  ]
+},
+  "text_test":{
     "chats": [
         {
-            "columns" : [
+            "text" : "ini adalah button",
+            "buttons" : [
                 {
-                    "title": "Hari Senin",
-                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Senin",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Senin",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        }
-                        }
-                    ],
-                    "type" : "button"
-                },
-                {
-                   "title": "Hari Rabu",
-                    "text" : "Jadwal dr. Agustina Ulfa, Sp.A, Klinik Anak",
-                    "image_url" : "https://rsud.grobogan.go.id/images/JADWALDOKTERBARU/KLINIKANAK/klinik_anak1.jpg",
-                    "buttons" : [
-                        {
-                            "label" : "Reservasi Pukul 07.30-08.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Rabu",
-                                "jam_praktek": "07.30-08.00"
-                            }
-                        },
-                        {
-                            "label" : "Reservasi Pukul 08.30-09.00",
-                            "type": "path",
-                            "path" : "5f105e4320f8371268f79e2f",
-                            "variable" : { 
-                                "nama_dokter": "dr. Agustina Ulfa, Sp.A",
-                                "klinik": "Anak",
-                                "hari": "Rabu",
-                                "jam_praktek": "08.30-09.00"
-                            }
-                        }
-                        }
-                    ],
-                    "type" : "button"
+                    "label" : "button",
+                    "type": "path",
+                    "path" : "5f05303220f8373f864b31f0"
                 }
             ],
-            "type" : "carousel"
+            "type" : "button"
         }
     ]
-}
+  }
 }

@@ -3,7 +3,6 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 reservasi_db = []
 
-
 @app.route('/jadwalReservasi', methods=['GET'])
 def tampil_reservasi():
     nama_dokter = []
@@ -23,6 +22,10 @@ def tampil_reservasi():
                 "type": "text"
             },
             {
+                "text": "Klinik : " + ", ".join(klinik),
+                "type": "text"
+            },
+            {
                 "text": "Hari : " + ", ".join(hari),
                 "type": "text"
             },
@@ -37,12 +40,12 @@ def tampil_reservasi():
 @app.route('/jadwalReservasi', methods=['POST'])
 def tambah_reservasi():
     data = request.get_json()
-    reservasi_db.append([data["nama_dokter"], data["hari"], data["jam_praktek"]])
+    reservasi_db.append([data["nama_dokter"], data["klinik"], data["hari"], data["jam_praktek"]])
 
     return jsonify({
         "chats": [
             {
-                "text": "Data berhasil disimpan",
+                "text": "Data reservasi berhasil disimpan",
                 "type": "text"
             }
         ]
@@ -51,3 +54,4 @@ def tambah_reservasi():
 
 if __name__ == '__main__':
     app.run(port=5000)
+
